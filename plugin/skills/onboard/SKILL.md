@@ -1,6 +1,7 @@
 ---
 name: onboard
-description: Onboard a new model to Qualcomm AI Hub Models. Guides authoring a standalone folder (model.py, app.py, demo.py, test.py, manifest.yaml) that the qai-hub-models CLI can install, export, and evaluate. Ships `supported_precisions: [float]`; quantization is a separate later skill. Use when adding a new model recipe. Does not support LLMs (causal/chat text-generation models) — those need a separate path.
+description: >-
+  Onboard a new model to Qualcomm AI Hub Models. Guides authoring a standalone folder (model.py, app.py, demo.py, test.py, manifest.yaml) that the qai-hub-models CLI can install, export, and evaluate. Ships `supported_precisions: [float]`; quantization is a separate later skill. Use when adding a new model recipe. Does not support LLMs (causal/chat text-generation models) — those need a separate path.
 ---
 
 # Model Onboarding
